@@ -22,7 +22,7 @@ Disallow: /node_modules/
 
 Allow: /sitemap.xml
 Allow: /manifest.json
-Allow: /og-image.png
+
 Allow: /favicon.ico
 
 Sitemap: https://niladri1.vercel.app/sitemap.xml
